@@ -3,12 +3,12 @@
         "AssetProcessor": {
             "Settings": {
                 "ScanFolder o3de-ur-robots-gem/Assets": {
-                    "watch": "@GEMROOT:o3de-ur-robots-gem@/Assets",
+                    "watch": "@GEMROOT:URRobots@/Assets",
                     "recursive": 1,
                     "order": 101
                 },
                 "ScanFolder o3de-ur-robots-gem/Registry": {
-                    "watch": "@GEMROOT:o3de-ur-robots-gem@/Registry",
+                    "watch": "@GEMROOT:URRobots@/Registry",
                     "recursive": 1,
                     "order": 102
                 }
