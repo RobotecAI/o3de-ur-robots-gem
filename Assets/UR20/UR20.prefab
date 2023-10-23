@@ -119,10 +119,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{E6C08207-06AE-5DC4-8DD3-8253CFF951AB}",
+                                    "guid": "{A3F12493-51EB-5C69-97BE-ED3D9F699FE0}",
                                     "subId": 283376957
                                 },
-                                "assetHint": "assets/ur20/meshes/wrist1.fbx.azmodel"
+                                "assetHint": "ur20/meshes/wrist1.fbx.azmodel"
                             }
                         }
                     }
@@ -160,9 +160,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
                                             },
-                                            "assetHint": "assets/ur20/ur20_ur20.azmaterial"
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -212,10 +212,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{5A9E4622-E64D-590C-A10E-2C9CFA0C1B16}",
+                                    "guid": "{1934CB34-8EBD-5801-854A-E2349D0E2165}",
                                     "subId": 284007441
                                 },
-                                "assetHint": "assets/ur20/meshes/wrist3.fbx.azmodel"
+                                "assetHint": "ur20/meshes/wrist3.fbx.azmodel"
                             }
                         }
                     }
@@ -253,9 +253,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
                                             },
-                                            "assetHint": "assets/ur20/ur20_ur20.azmaterial"
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -601,19 +601,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{9D219E13-405E-5AEB-950C-E16E9D5B366E}",
+                                    "guid": "{460C3E5C-2E67-5942-ABEB-F70341AD1986}",
                                     "subId": 1303227381
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/forearm.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/forearm.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{9D219E13-405E-5AEB-950C-E16E9D5B366E}",
+                                        "guid": "{460C3E5C-2E67-5942-ABEB-F70341AD1986}",
                                         "subId": 1303227381
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/forearm.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/forearm.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
@@ -672,10 +672,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{69BDAD8B-86E4-5BA9-91DD-F530D0BE0D8F}",
+                                    "guid": "{AE1CCCB4-BA40-5863-9DF3-031D0029E30E}",
                                     "subId": 274532406
                                 },
-                                "assetHint": "assets/ur20/meshes/forearm.fbx.azmodel"
+                                "assetHint": "ur20/meshes/forearm.fbx.azmodel"
                             }
                         }
                     }
@@ -713,8 +713,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
-                                            }
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
+                                            },
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -764,10 +765,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{63A1FE48-2A07-52BF-9B06-8F6789F71CCF}",
+                                    "guid": "{1B7A502F-CDC9-5116-BF86-1A29612A6249}",
                                     "subId": 270772955
                                 },
-                                "assetHint": "assets/ur20/meshes/upperarm.fbx.azmodel"
+                                "assetHint": "ur20/meshes/upperarm.fbx.azmodel"
                             }
                         }
                     }
@@ -805,8 +806,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
-                                            }
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
+                                            },
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -924,19 +926,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{2651EEDB-0D61-582A-8179-551BE43C9DBB}",
+                                    "guid": "{E98E4806-E184-5AD8-984F-5EA3A9AAC6A2}",
                                     "subId": 3110102142
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/wrist1.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/wrist1.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{2651EEDB-0D61-582A-8179-551BE43C9DBB}",
+                                        "guid": "{E98E4806-E184-5AD8-984F-5EA3A9AAC6A2}",
                                         "subId": 3110102142
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/wrist1.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/wrist1.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
@@ -1052,19 +1054,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{12A7D556-98ED-5CD5-B76A-BC0C78AC165B}",
+                                    "guid": "{3D8B2690-3F00-5AF1-8023-B42C20B61CD4}",
                                     "subId": 1593114053
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/wrist2.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/wrist2.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{12A7D556-98ED-5CD5-B76A-BC0C78AC165B}",
+                                        "guid": "{3D8B2690-3F00-5AF1-8023-B42C20B61CD4}",
                                         "subId": 1593114053
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/wrist2.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/wrist2.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
@@ -1196,19 +1198,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{C76C245A-54B5-5E33-87D5-38B4EE1FD5E0}",
+                                    "guid": "{B0735CAC-1952-59D7-9FF7-D652DA40015E}",
                                     "subId": 1865782021
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/upperarm.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/upperarm.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{C76C245A-54B5-5E33-87D5-38B4EE1FD5E0}",
+                                        "guid": "{B0735CAC-1952-59D7-9FF7-D652DA40015E}",
                                         "subId": 1865782021
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/upperarm.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/upperarm.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
@@ -1262,10 +1264,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{F1B496AA-BF92-5182-B91C-1AC2295ADB3C}",
+                                    "guid": "{F3F29A59-DA75-5CFC-B56D-C2654089AA9E}",
                                     "subId": 284840925
                                 },
-                                "assetHint": "assets/gripper/gripper.fbx.azmodel"
+                                "assetHint": "gripper/gripper.fbx.azmodel"
                             }
                         }
                     }
@@ -1362,8 +1364,8 @@
                     "$type": "EditorEntitySortComponent",
                     "Id": 1056171533515031021,
                     "Child Entity Order": [
-                        "Entity_[7303353780706]",
-                        "Entity_[7329123584482]"
+                        "Entity_[7329123584482]",
+                        "Entity_[7303353780706]"
                     ]
                 },
                 "EditorInspectorComponent": {
@@ -1396,19 +1398,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{2F29BD65-7B25-55F9-A96F-BF8DF10DB6F7}",
+                                    "guid": "{A4D27360-246B-5232-AAFD-114AF407B2C6}",
                                     "subId": 1794914141
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/shoulder.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/shoulder.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{2F29BD65-7B25-55F9-A96F-BF8DF10DB6F7}",
+                                        "guid": "{A4D27360-246B-5232-AAFD-114AF407B2C6}",
                                         "subId": 1794914141
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/shoulder.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/shoulder.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
@@ -1467,10 +1469,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{266B894A-BCC9-5319-831B-0F446BBE8E7F}",
+                                    "guid": "{22DB0D52-F5FB-59C5-A477-283BB6A2F674}",
                                     "subId": 280297057
                                 },
-                                "assetHint": "assets/ur20/meshes/base.fbx.azmodel"
+                                "assetHint": "ur20/meshes/base.fbx.azmodel"
                             }
                         }
                     }
@@ -1508,8 +1510,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
-                                            }
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
+                                            },
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -1626,10 +1629,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{FF81AE97-ED09-5BE2-888A-1E9997969234}",
+                                    "guid": "{352BBA08-E306-5D91-BEF5-B9B20E1E2295}",
                                     "subId": 278609181
                                 },
-                                "assetHint": "assets/ur20/meshes/shoulder.fbx.azmodel"
+                                "assetHint": "ur20/meshes/shoulder.fbx.azmodel"
                             }
                         }
                     }
@@ -1667,8 +1670,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
-                                            }
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
+                                            },
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -1706,10 +1710,10 @@
                         "Configuration": {
                             "ModelAsset": {
                                 "assetId": {
-                                    "guid": "{256B0277-0EC7-5410-A117-00AF60FE7277}",
+                                    "guid": "{6D477A16-DCBA-56F3-8A91-B63911FF5685}",
                                     "subId": 283815047
                                 },
-                                "assetHint": "assets/ur20/meshes/wrist2.fbx.azmodel"
+                                "assetHint": "ur20/meshes/wrist2.fbx.azmodel"
                             }
                         }
                     }
@@ -1747,9 +1751,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{9B0AE0AC-277E-54F3-AA3D-92646F09E7BE}"
+                                                "guid": "{0852BD20-6926-5559-9EAD-472C4D032156}"
                                             },
-                                            "assetHint": "assets/ur20/ur20_ur20.azmaterial"
+                                            "assetHint": "ur20/ur20_ur20.azmaterial"
                                         }
                                     }
                                 }
@@ -1849,19 +1853,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{1F84DC66-7DAC-5AF1-AB2D-F1E36667BA5F}",
+                                    "guid": "{C2D8CB1D-FCA7-595C-8CBD-68909F9E4F71}",
                                     "subId": 1505212455
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/base.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/base.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{1F84DC66-7DAC-5AF1-AB2D-F1E36667BA5F}",
+                                        "guid": "{C2D8CB1D-FCA7-595C-8CBD-68909F9E4F71}",
                                         "subId": 1505212455
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/base.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/base.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
@@ -1974,9 +1978,9 @@
                     "$type": "EditorEntitySortComponent",
                     "Id": 15757222117122366886,
                     "Child Entity Order": [
+                        "Entity_[7268994042338]",
                         "Entity_[7320533649890]",
-                        "Entity_[7350598420962]",
-                        "Entity_[7268994042338]"
+                        "Entity_[7350598420962]"
                     ]
                 },
                 "EditorInspectorComponent": {
@@ -2014,19 +2018,19 @@
                         "PhysicsAsset": {
                             "Asset": {
                                 "assetId": {
-                                    "guid": "{F1BA1349-F6EE-50B2-B02C-7E7FA2C40863}",
+                                    "guid": "{2EB9B5DD-61BA-5554-A988-71858DEC7E30}",
                                     "subId": 1922203068
                                 },
-                                "assetHint": "assets/UR20/BasicMeshes/wrist3.stl.pxmesh"
+                                "assetHint": "ur20/basicmeshes/wrist3.stl.pxmesh"
                             },
                             "Configuration": {
                                 "PhysicsAsset": {
                                     "assetId": {
-                                        "guid": "{F1BA1349-F6EE-50B2-B02C-7E7FA2C40863}",
+                                        "guid": "{2EB9B5DD-61BA-5554-A988-71858DEC7E30}",
                                         "subId": 1922203068
                                     },
                                     "loadBehavior": "QueueLoad",
-                                    "assetHint": "assets/UR20/BasicMeshes/wrist3.stl.pxmesh"
+                                    "assetHint": "ur20/basicmeshes/wrist3.stl.pxmesh"
                                 },
                                 "UseMaterialsFromAsset": false
                             }
