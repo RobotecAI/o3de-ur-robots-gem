@@ -1,0 +1,25 @@
+This repository contains mesh files copied from [Universal_Robots_ROS2_Description](https://github.com/UniversalRobots/Universal_Robots_ROS2_Description) repository of Universal Robots. The files that are directly copied are:
+```
+├── UR10
+│   └── BasicMeshes
+│       ├── base_collider.stl
+│       ├── forearm_collider.stl
+│       ├── shoulder_collider.stl
+│       ├── upperarm_collider.stl
+│       ├── wrist1_collider.stl
+│       ├── wrist2_collider.stl
+│       └── wrist3_collider.stl
+└── UR20
+    └── BasicMeshes
+        ├── base.stl
+        ├── forearm.stl
+        ├── shoulder.stl
+        ├── upperarm.stl
+        ├── wrist1.stl
+        ├── wrist2.stl
+        └── wrist3.stl
+```
+
+Additionally, mesh files in `.fbx` format stored in this repository are based on the meshes listed above.
+
+All files are copied and modified following the license of Universal Robots.
