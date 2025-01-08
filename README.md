@@ -40,7 +40,13 @@ in which `UR10.prefab` and `UR20.prefab` model Universal Robots UR10 and Univers
 ![](docs/images/front.png)
 ![](docs/images/back.png)
 
-## O3DE 
+## Release notes
+### 2.0.0 for O3DE 2409.x
+Changes compared to `1.0.0`
+- Prefabs modified to work with `ROS2 Gem >= 3.1.0`
+
+### 1.0.0 for O3DE 2310.x
+Initial release prepared for initial version of [ROSCon2023Demo](https://github.com/RobotecAI/ROSCon2023Demo)
 
 ## Acknowledgments
 
