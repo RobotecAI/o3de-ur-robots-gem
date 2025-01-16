@@ -98,11 +98,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 3162201113938073911
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 11215053288689314569,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Frame Name": "flange",
                         "Joint Name": "wrist_3-flange",
                         "Publish Transform": false
@@ -175,7 +174,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{6B4A45DC-3889-5BE4-A100-947D9D6E8768}"
-                                            }
+                                            },
+                                            "assetHint": "ur10/ur10_m_ur10.azmaterial"
                                         }
                                     }
                                 }
@@ -296,11 +296,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 14178936275163388283
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 6725714804015519141,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Frame Name": "tool0",
                         "Joint Name": "flange-tool0",
                         "Publish Transform": false
@@ -529,11 +528,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 2900401725638520869
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 1337278135579268774,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -614,7 +612,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{6B4A45DC-3889-5BE4-A100-947D9D6E8768}"
-                                            }
+                                            },
+                                            "assetHint": "ur10/ur10_m_ur10.azmaterial"
                                         }
                                     }
                                 }
@@ -769,11 +768,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 14891883367921573398
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 15791815753167737967,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -906,11 +904,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 11110003518163621478
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 11750197844762334575,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1130,11 +1127,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 4447019963576809044
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 11919293354833549866,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1254,11 +1250,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 3577927265296436934
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 3643723356448930267,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1326,11 +1321,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 4882093382413089942
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 2647709708475378771,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1462,11 +1456,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 15346349257908877517
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 8821592955977444905,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1542,7 +1535,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{6B4A45DC-3889-5BE4-A100-947D9D6E8768}"
-                                            }
+                                            },
+                                            "assetHint": "ur10/ur10_m_ur10.azmaterial"
                                         }
                                     }
                                 }
@@ -1646,14 +1640,60 @@
                             }
                         }
                     },
-                    "Initial positions": {
-                        "elbow_joint": 1.399999976158142,
-                        "shoulder_lift_joint": -1.6200000047683716,
-                        "shoulder_pan_joint": {},
-                        "wrist_1_joint": -1.2000000476837158,
-                        "wrist_2_joint": -1.600000023841858,
-                        "wrist_3_joint": -0.10999999940395355
-                    }
+                    "Initial positions": [
+                        [
+                            "base_joint",
+                            {}
+                        ],
+                        [
+                            "base_link-base_link_inertia",
+                            {}
+                        ],
+                        [
+                            "shoulder_pan_joint",
+                            {}
+                        ],
+                        [
+                            "shoulder_lift_joint",
+                            -1.6200000047683716
+                        ],
+                        [
+                            "elbow_joint",
+                            1.399999976158142
+                        ],
+                        [
+                            "wrist_1_joint",
+                            -1.2000000476837158
+                        ],
+                        [
+                            "wrist_2_joint",
+                            -1.600000023841858
+                        ],
+                        [
+                            "wrist_3_joint",
+                            -0.10999999940395355
+                        ],
+                        [
+                            "wrist_3-flange",
+                            {}
+                        ],
+                        [
+                            "flange-tool0",
+                            {}
+                        ],
+                        [
+                            "tool0-gripper",
+                            {}
+                        ],
+                        [
+                            "wrist_3_link-ft_frame",
+                            {}
+                        ],
+                        [
+                            "base_link-base_fixed_joint",
+                            {}
+                        ]
+                    ]
                 },
                 "JointsTrajectoryComponent": {
                     "$type": "GenericComponentWrapper",
@@ -1663,11 +1703,10 @@
                         "Action name": "joint_trajectory_controller/follow_joint_trajectory"
                     }
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 4167489356847728006,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1797,11 +1836,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 12870955700656991821
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 2428354820031729224,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -1877,7 +1915,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{6B4A45DC-3889-5BE4-A100-947D9D6E8768}"
-                                            }
+                                            },
+                                            "assetHint": "ur10/ur10_m_ur10.azmaterial"
                                         }
                                     }
                                 }
@@ -1995,11 +2034,10 @@
                         "$type": "GripperActionServerComponent"
                     }
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 9111996756983695701,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Frame Name": "gripper_link",
                         "Joint Name": "tool0-gripper",
                         "Publish Transform": false
@@ -2080,11 +2118,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 9697593403581928237
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 9761504380790994395,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Namespace Configuration": {
                             "Namespace Strategy": 1
                         },
@@ -2152,7 +2189,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{6B4A45DC-3889-5BE4-A100-947D9D6E8768}"
-                                            }
+                                            },
+                                            "assetHint": "ur10/ur10_m_ur10.azmaterial"
                                         }
                                     }
                                 }
@@ -2239,7 +2277,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{6B4A45DC-3889-5BE4-A100-947D9D6E8768}"
-                                            }
+                                            },
+                                            "assetHint": "ur10/ur10_m_ur10.azmaterial"
                                         }
                                     }
                                 }
@@ -2310,11 +2349,10 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 534106856007224175
                 },
-                "ROS2FrameComponent": {
-                    "$type": "GenericComponentWrapper",
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
                     "Id": 16309935774288793114,
-                    "m_template": {
-                        "$type": "ROS2FrameComponent",
+                    "ROS2FrameConfiguration": {
                         "Frame Name": "ft_frame",
                         "Joint Name": "wrist_3_link-ft_frame",
                         "Publish Transform": false
