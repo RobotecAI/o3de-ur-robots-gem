@@ -20,7 +20,18 @@
                         "Name": "DefaultMaterial"
                     }
                 ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    }
+                ]
             }
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
         }
     ]
 }
