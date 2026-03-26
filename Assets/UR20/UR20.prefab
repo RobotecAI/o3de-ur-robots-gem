@@ -1006,49 +1006,7 @@
                 },
                 "EditorDisabledCompositionComponent": {
                     "$type": "EditorDisabledCompositionComponent",
-                    "Id": 1263336081566471968,
-                    "DisabledComponents": {
-                        "EditorMeshColliderComponent": {
-                            "$type": "EditorMeshColliderComponent",
-                            "Id": 2012057191507858826,
-                            "ColliderConfiguration": {
-                                "Position": [
-                                    0.0,
-                                    0.0,
-                                    -0.07490000128746033
-                                ],
-                                "MaterialSlots": {
-                                    "Slots": [
-                                        {
-                                            "Name": "DefaultMaterial"
-                                        }
-                                    ]
-                                }
-                            },
-                            "ShapeConfiguration": {
-                                "PhysicsAsset": {
-                                    "Asset": {
-                                        "assetId": {
-                                            "guid": "{3D8B2690-3F00-5AF1-8023-B42C20B61CD4}",
-                                            "subId": 1593114053
-                                        },
-                                        "assetHint": "ur20/basicmeshes/wrist2.stl.pxmesh"
-                                    },
-                                    "Configuration": {
-                                        "PhysicsAsset": {
-                                            "assetId": {
-                                                "guid": "{3D8B2690-3F00-5AF1-8023-B42C20B61CD4}",
-                                                "subId": 1593114053
-                                            },
-                                            "loadBehavior": "QueueLoad",
-                                            "assetHint": "ur20/basicmeshes/wrist2.stl.pxmesh"
-                                        },
-                                        "UseMaterialsFromAsset": false
-                                    }
-                                }
-                            }
-                        }
-                    }
+                    "Id": 1263336081566471968
                 },
                 "EditorEntityIconComponent": {
                     "$type": "EditorEntityIconComponent",
@@ -1069,6 +1027,46 @@
                 "EditorLockComponent": {
                     "$type": "EditorLockComponent",
                     "Id": 17808811866787465820
+                },
+                "EditorMeshColliderComponent": {
+                    "$type": "EditorMeshColliderComponent",
+                    "Id": 2012057191507858826,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.0,
+                            0.0,
+                            -0.07490000128746033
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "DefaultMaterial"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{3D8B2690-3F00-5AF1-8023-B42C20B61CD4}",
+                                    "subId": 1593114053
+                                },
+                                "assetHint": "ur20/basicmeshes/wrist2.stl.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{3D8B2690-3F00-5AF1-8023-B42C20B61CD4}",
+                                        "subId": 1593114053
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "ur20/basicmeshes/wrist2.stl.pxmesh"
+                                },
+                                "UseMaterialsFromAsset": false
+                            }
+                        }
+                    }
                 },
                 "EditorOnlyEntityComponent": {
                     "$type": "EditorOnlyEntityComponent",
@@ -1994,55 +1992,7 @@
                 },
                 "EditorDisabledCompositionComponent": {
                     "$type": "EditorDisabledCompositionComponent",
-                    "Id": 11285388967286090310,
-                    "DisabledComponents": {
-                        "EditorMeshColliderComponent": {
-                            "$type": "EditorMeshColliderComponent",
-                            "Id": 17214394113845966757,
-                            "ColliderConfiguration": {
-                                "Position": [
-                                    0.0,
-                                    0.0,
-                                    -0.07000000029802322
-                                ],
-                                "Rotation": [
-                                    0.7071067690849304,
-                                    0.0,
-                                    0.0,
-                                    0.7071067690849304
-                                ],
-                                "MaterialSlots": {
-                                    "Slots": [
-                                        {
-                                            "Name": "DefaultMaterial"
-                                        }
-                                    ]
-                                }
-                            },
-                            "ShapeConfiguration": {
-                                "PhysicsAsset": {
-                                    "Asset": {
-                                        "assetId": {
-                                            "guid": "{2EB9B5DD-61BA-5554-A988-71858DEC7E30}",
-                                            "subId": 1922203068
-                                        },
-                                        "assetHint": "ur20/basicmeshes/wrist3.stl.pxmesh"
-                                    },
-                                    "Configuration": {
-                                        "PhysicsAsset": {
-                                            "assetId": {
-                                                "guid": "{2EB9B5DD-61BA-5554-A988-71858DEC7E30}",
-                                                "subId": 1922203068
-                                            },
-                                            "loadBehavior": "QueueLoad",
-                                            "assetHint": "ur20/basicmeshes/wrist3.stl.pxmesh"
-                                        },
-                                        "UseMaterialsFromAsset": false
-                                    }
-                                }
-                            }
-                        }
-                    }
+                    "Id": 11285388967286090310
                 },
                 "EditorEntityIconComponent": {
                     "$type": "EditorEntityIconComponent",
@@ -2064,6 +2014,52 @@
                 "EditorLockComponent": {
                     "$type": "EditorLockComponent",
                     "Id": 6382611656099497947
+                },
+                "EditorMeshColliderComponent": {
+                    "$type": "EditorMeshColliderComponent",
+                    "Id": 17214394113845966757,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.0,
+                            0.0,
+                            -0.07000000029802322
+                        ],
+                        "Rotation": [
+                            0.7071067690849304,
+                            0.0,
+                            0.0,
+                            0.7071067690849304
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "DefaultMaterial"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{2EB9B5DD-61BA-5554-A988-71858DEC7E30}",
+                                    "subId": 1922203068
+                                },
+                                "assetHint": "ur20/basicmeshes/wrist3.stl.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{2EB9B5DD-61BA-5554-A988-71858DEC7E30}",
+                                        "subId": 1922203068
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "ur20/basicmeshes/wrist3.stl.pxmesh"
+                                },
+                                "UseMaterialsFromAsset": false
+                            }
+                        }
+                    }
                 },
                 "EditorOnlyEntityComponent": {
                     "$type": "EditorOnlyEntityComponent",
