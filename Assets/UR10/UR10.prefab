@@ -371,9 +371,9 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{72E08ED3-BD63-56A4-A796-E89B8FCA2C13}"
-                                            },
-                                            "assetHint": "assets/gripper/gripper_gripper.azmaterial"
+                                                "guid": "{F3F29A59-DA75-5CFC-B56D-C2654089AA9E}",
+                                                "subId": 751895252
+                                            }
                                         }
                                     }
                                 }
