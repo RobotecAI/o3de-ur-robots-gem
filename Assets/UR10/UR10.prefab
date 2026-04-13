@@ -98,6 +98,15 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 3162201113938073911
                 },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 11215053288689314569,
+                    "ROS2FrameConfiguration": {
+                        "Frame Name": "flange",
+                        "Joint Name": "wrist_3-flange",
+                        "Publish Transform": false
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 400995838768749823,
@@ -287,6 +296,15 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 14178936275163388283
                 },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 6725714804015519141,
+                    "ROS2FrameConfiguration": {
+                        "Frame Name": "tool0",
+                        "Joint Name": "flange-tool0",
+                        "Publish Transform": false
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 12372534703390537978,
@@ -353,7 +371,8 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{5C7805EF-5E22-5934-BFD7-298381FA3491}"
+                                                "guid": "{F3F29A59-DA75-5CFC-B56D-C2654089AA9E}",
+                                                "subId": 751895252
                                             }
                                         }
                                     }
@@ -508,6 +527,18 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 2900401725638520869
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 1337278135579268774,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "forearm_link",
+                        "Joint Name": "elbow_joint",
+                        "Publish Transform": false
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
@@ -737,6 +768,18 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 14891883367921573398
                 },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 15791815753167737967,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "wrist_3_link",
+                        "Joint Name": "wrist_3_joint",
+                        "Publish Transform": false
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 3868267867187415994,
@@ -860,6 +903,18 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 11110003518163621478
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 11750197844762334575,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "shoulder_link",
+                        "Joint Name": "shoulder_pan_joint",
+                        "Publish Transform": false
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
@@ -1072,6 +1127,18 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 4447019963576809044
                 },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 11919293354833549866,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "wrist_2_link",
+                        "Joint Name": "wrist_2_joint",
+                        "Publish Transform": false
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 14125838079395442588,
@@ -1183,6 +1250,18 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 3577927265296436934
                 },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 3643723356448930267,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "base_link_inertia",
+                        "Joint Name": "base_link-base_link_inertia",
+                        "Publish Transform": false
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 16706756367717092850,
@@ -1241,6 +1320,17 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 4882093382413089942
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 2647709708475378771,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "base",
+                        "Joint Name": "base_link-base_fixed_joint"
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
@@ -1365,6 +1455,18 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 15346349257908877517
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 8821592955977444905,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "wrist_1_link",
+                        "Joint Name": "wrist_1_joint",
+                        "Publish Transform": false
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
@@ -1521,6 +1623,97 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 15052789035965274954
                 },
+                "JointsArticulationControllerComponent": {
+                    "$type": "GenericComponentWrapper",
+                    "Id": 6817195132121504467,
+                    "m_template": {
+                        "$type": "JointsArticulationControllerComponent"
+                    }
+                },
+                "JointsManipulationEditorComponent": {
+                    "$type": "JointsManipulationEditorComponent",
+                    "Id": 157370469700738812,
+                    "JointStatePublisherConfiguration": {
+                        "Topic": {
+                            "QoS": {
+                                "Reliability": 1
+                            }
+                        }
+                    },
+                    "Initial positions": [
+                        [
+                            "base_joint",
+                            {}
+                        ],
+                        [
+                            "base_link-base_link_inertia",
+                            {}
+                        ],
+                        [
+                            "shoulder_pan_joint",
+                            {}
+                        ],
+                        [
+                            "shoulder_lift_joint",
+                            -1.6200000047683716
+                        ],
+                        [
+                            "elbow_joint",
+                            1.399999976158142
+                        ],
+                        [
+                            "wrist_1_joint",
+                            -1.2000000476837158
+                        ],
+                        [
+                            "wrist_2_joint",
+                            -1.600000023841858
+                        ],
+                        [
+                            "wrist_3_joint",
+                            -0.10999999940395355
+                        ],
+                        [
+                            "wrist_3-flange",
+                            {}
+                        ],
+                        [
+                            "flange-tool0",
+                            {}
+                        ],
+                        [
+                            "tool0-gripper",
+                            {}
+                        ],
+                        [
+                            "wrist_3_link-ft_frame",
+                            {}
+                        ],
+                        [
+                            "base_link-base_fixed_joint",
+                            {}
+                        ]
+                    ]
+                },
+                "JointsTrajectoryComponent": {
+                    "$type": "GenericComponentWrapper",
+                    "Id": 3854896214893937534,
+                    "m_template": {
+                        "$type": "JointsTrajectoryComponent",
+                        "Action name": "joint_trajectory_controller/follow_joint_trajectory"
+                    }
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 4167489356847728006,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "base_link",
+                        "Joint Name": "base_joint"
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 16030547047118712638,
@@ -1642,6 +1835,18 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 12870955700656991821
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 2428354820031729224,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "upper_arm_link",
+                        "Joint Name": "shoulder_lift_joint",
+                        "Publish Transform": false
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
@@ -1822,6 +2027,22 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 1405777104179388448
                 },
+                "GripperActionServerComponent": {
+                    "$type": "GenericComponentWrapper",
+                    "Id": 3024019699900949188,
+                    "m_template": {
+                        "$type": "GripperActionServerComponent"
+                    }
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 9111996756983695701,
+                    "ROS2FrameConfiguration": {
+                        "Frame Name": "gripper_link",
+                        "Joint Name": "tool0-gripper",
+                        "Publish Transform": false
+                    }
+                },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 14197983517855441119,
@@ -1837,6 +2058,15 @@
                             0.000003415094397496432,
                             -90.00000762939453
                         ]
+                    }
+                },
+                "VacuumGripperComponent": {
+                    "$type": "GenericComponentWrapper",
+                    "Id": 4055889742817864616,
+                    "m_template": {
+                        "$type": "VacuumGripperComponent",
+                        "EffectorCollider": "Entity_[2840549161062]",
+                        "EffectorArticulation": "Entity_[2840549161062]"
                     }
                 }
             }
@@ -1887,6 +2117,17 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 9697593403581928237
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 9761504380790994395,
+                    "ROS2FrameConfiguration": {
+                        "Namespace Configuration": {
+                            "Namespace Strategy": 1
+                        },
+                        "Frame Name": "world",
+                        "Publish Transform": false
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
@@ -2107,6 +2348,15 @@
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 534106856007224175
+                },
+                "ROS2FrameEditorComponent": {
+                    "$type": "ROS2FrameEditorComponent",
+                    "Id": 16309935774288793114,
+                    "ROS2FrameConfiguration": {
+                        "Frame Name": "ft_frame",
+                        "Joint Name": "wrist_3_link-ft_frame",
+                        "Publish Transform": false
+                    }
                 },
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
