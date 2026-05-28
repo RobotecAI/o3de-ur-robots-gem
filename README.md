@@ -41,6 +41,11 @@ in which `UR10.prefab` and `UR20.prefab` model Universal Robots UR10 and Univers
 ![](docs/images/back.png)
 
 ## Release notes
+### 3.0.0 for O3DE 2510.x and O3DE 2605.x
+Changes compared to `2.0.0`
+- Modified to work with `ROS2 Gem >= 4.0.0` (set the requirements to ` >= 4.1.0`)
+- Fixed gripper materials in UR10 robot
+
 ### 2.0.0 for O3DE 2409.x
 Changes compared to `1.0.0`
 - Prefabs modified to work with `ROS2 Gem >= 3.1.0`

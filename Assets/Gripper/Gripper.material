@@ -1,0 +1,11 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.textureMap": "Textures/Gripper-BaseColor.png",
+        "metallic.textureMap": "Textures/Gripper-Metallic.png",
+        "normal.textureMap": "Textures/Gripper-Normal.png",
+        "occlusion.specularTextureMap": "Textures/Gripper-Specular.png",
+        "roughness.textureMap": "Textures/Gripper-Roughness.png"
+    }
+}
