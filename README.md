@@ -1,4 +1,4 @@
-[![Apache License, Version 2.0][apache_shield]][apache]
+[![Apache License, Version 2.0][apache_shield]][apache] [![CC BY-NC 4.0][cc_by_nc_shield]][cc_by_nc]
 
 # UR10 and UR20 Robots Gem for Open 3D Engine (O3DE)
 
@@ -41,6 +41,9 @@ in which `UR10.prefab` and `UR20.prefab` model Universal Robots UR10 and Univers
 ![](docs/images/back.png)
 
 ## Release notes
+### 3.0.1 for O3DE 2510.x and O3DE 2605.x
+- Fixed licensing inconsistencies
+
 ### 3.0.0 for O3DE 2510.x and O3DE 2605.x
 Changes compared to `2.0.0`
 - Modified to work with `ROS2 Gem >= 4.0.0` (set the requirements to ` >= 4.1.0`)
@@ -59,8 +62,12 @@ Models were created based on STL and URDF files kindly shared by Universal Robot
 
 ---
 
-This work is licensed under [Apache License, Version 2.0][apache]. You may elect at your option to use the [MIT License][mit] instead. Contributions must be made under both licenses.
+The code in this work is licensed under [Apache License, Version 2.0][apache]. You may elect at your option to use the [MIT License][mit] instead. Contributions must be made under both licenses. The assets (models, textures, materials, prefabs, animations) are licensed under [CC BY-NC 4.0][cc_by_nc]. See `LICENSE.txt` and `NOTICE` for details.
+
+Some mesh files are under separate terms; see NOTICE.
 
 [apache]: https://opensource.org/licenses/Apache-2.0
 [mit]: https://opensource.org/licenses/MIT
 [apache_shield]: https://img.shields.io/badge/License-Apache_2.0-blue.svg
+[cc_by_nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc_by_nc_shield]: https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg
