@@ -1,3 +1,8 @@
+UR10 and UR20 Robots Gem for Open 3D Engine
+Copyright 2023-2026 Robotec.ai sp. z o.o.
+
+Code is licensed under Apache-2.0 OR MIT; assets are licensed under CC BY-NC 4.0 (see LICENSE.txt).
+
 This repository contains mesh files copied from [Universal_Robots_ROS2_Description](https://github.com/UniversalRobots/Universal_Robots_ROS2_Description) repository of Universal Robots. The files that are directly copied are:
 ```
 ├── UR10
@@ -22,4 +27,5 @@ This repository contains mesh files copied from [Universal_Robots_ROS2_Descripti
 
 Additionally, mesh files in `.fbx` format stored in this repository are based on the meshes listed above.
 
-All files are copied and modified following the license of Universal Robots.
+Assets/UR10/BasicMeshes/*.stl are distributed under the BSD-3-Clause licence (Assets/UR10/LICENSE).
+Assets/UR20/BasicMeshes/*.stl and Assets/UR20/Meshes/*.fbx: © 2023 Universal Robots A/S. Use hereof is subject to Universal Robots A/S’ Terms and Conditions for Use of Graphical Documentation (Assets/UR20/LICENSE.txt). These files are not covered by the Apache-2.0, MIT or CC BY-NC 4.0 licences of this repository.
